@@ -24,5 +24,3 @@ Here, you can find my latest resume along with supporting certifications that sh
 
 ---
 
-## 📁 Folder Structure
-
