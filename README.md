@@ -8,7 +8,7 @@ Here, you can find my latest resume along with supporting certifications that sh
 
 ## 📄 Resume
 
-- [Shrey Resume 3.0 (PDF)](./Shrey%20Resume%20(2).pdf)
+- [Shrey Resume(PDF)](./Shrey%20Resume%20(2).pdf)
 
 ---
 
