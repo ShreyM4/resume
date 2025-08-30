@@ -21,6 +21,7 @@ Here, you can find my latest resume along with supporting certifications that sh
 | Python Essentials | Vityarthi | [View Certificate](./Certifications/Python%20certificate.pdf) |
 | AI & ML Certificate | Vityarthi | [View Certificate](./Certifications/certificate%20AIML.pdf) |
 | Android App Development | Imarticus (VIT) | [View Certificate](./Certifications/Android%20App%20developement%20certificate%20VIT-46.pdf) |
+| GDG on Campus Solution Challenge | Hack2Skill | [View Certificate](./Certifications/Hack2skill-Certificate.png) |
 
 ---
 
